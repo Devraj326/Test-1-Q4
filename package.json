@@ -1,5 +1,5 @@
 {
-  "name": "Test-1-Q4",
+  "name": "test-1-q4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "express": "^4.19.2"
   }
 }
